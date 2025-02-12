@@ -26,7 +26,13 @@ public class Clase1 {
 
 
         7. Hacer un clone y ya estaría listo para modificar
-        8. Para guardar los cambios realizados hacer pull
+        8. Hacer un commit
+        9. Para guardar los cambios realizados hacer push
+        
+        ___________________________________________________________
+        
+        10. Para que el otro usuario lo puedo tener modificado en su repositorio, tiene que hacer un pull
+        
         */
         
     }
